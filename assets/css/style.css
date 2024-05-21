@@ -468,7 +468,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(0, 0, 0, 0.26);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -485,12 +485,12 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #222222;
+  color: #fff;
   font-family: "Poppins", sans-serif;
 }
 
 #hero h1 span {
-  color: #19a520;
+  color: #fff;
 }
 
 #hero h2 {
